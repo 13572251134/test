@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+		<sys_setting>
+		<!--数据库配置 -->
+		<drivername>com.mysql.jdbc.Driver</drivername>
+		<url>jdbc:mysql://rm-2zef2m6porq988vz4.mysql.rds.aliyuncs.com:3306/sanwenqian?autoReconnectForPools=true&amp;useUnicode=true&amp;characterEncoding=utf-8</url>
+		<username>sanwenqian_r</username>
+		<password>Sanwenqian!@#345</password>
+		</sys_setting>
+</config>
+
